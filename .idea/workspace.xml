@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d43c0bd8-e6b2-4026-b0d9-1adc8ba3e90c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/META-INF/algorithm.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/kw/jianxiansiqi/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kw/jianxiansiqi/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.第一题A+B.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.两数相加.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.无重复字符的最长字串.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.整数的倒置.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.字符串转换为整数.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/bin/com/test/array/FindMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/bin/com/test/array/GenericArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/bin/com/test/array/HiArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/bin/com/test/array/HighArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/bin/com/test/array/LowerArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/bin/com/test/array/OrderArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/bin/com/test/array/SimpleArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/bin/com/test/link/Link.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/bin/com/test/link/LinkList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/bin/com/test/queue/PriQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/bin/com/test/queue/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/bin/com/test/sort/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/bin/com/test/sort/BubbleSortInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/bin/com/test/sort/InsertSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/bin/com/test/sort/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/bin/com/test/sort/SelectOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/bin/com/test/stack/MyStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/bin/com/test/stack/WordRe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/src/com/test/array/FindMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/src/com/test/array/GenericArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/src/com/test/array/HighArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/src/com/test/array/OrderArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/src/com/test/array/SimpleArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/src/com/test/link/Link.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/src/com/test/link/LinkList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/src/com/test/queue/PriQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/src/com/test/queue/Queue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/src/com/test/sort/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/src/com/test/sort/BubbleSortInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/src/com/test/sort/InsertSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/src/com/test/sort/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/src/com/test/sort/SelectOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/src/com/test/stack/MyStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shujujiegou/src/com/test/stack/WordRe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/bin/kw/suanfa/demo/Demo01$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/bin/kw/suanfa/demo/Demo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/bin/kw/suanfa/demo/Demo02$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/bin/kw/suanfa/demo/Demo02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/bin/kw/suanfa/demo/Demo03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/bin/kw/suanfa/demo/Demo04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/bin/kw/suanfa/demo/Demo05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/bin/kw/suanfa/demo/Demo06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/bin/kw/suanfa/demo/Demo07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/bin/kw/suanfa/demo/Demo08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/bin/kw/suanfa/demo/Demo10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/bin/kw/suanfa/demo/Demo11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/bin/kw/suanfa/demo/Demo13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/bin/kw/suanfa/demo/Demo14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/src/kw/suanfa/demo/Demo01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/src/kw/suanfa/demo/Demo02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/src/kw/suanfa/demo/Demo03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/src/kw/suanfa/demo/Demo04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/src/kw/suanfa/demo/Demo05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/src/kw/suanfa/demo/Demo06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/src/kw/suanfa/demo/Demo07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/src/kw/suanfa/demo/Demo08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/src/kw/suanfa/demo/Demo10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/src/kw/suanfa/demo/Demo11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/src/kw/suanfa/demo/Demo13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suanfa/src/kw/suanfa/demo/Demo14.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="INCOMING_CHECK_STRATEGY" value="Always" />
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1UyhxTAyy6tMRD63rtrIFNL3W6n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Demo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kw.jianxiansiqi.Demo" />
+      <module name="algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="kw.jianxiansiqi.Demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d43c0bd8-e6b2-4026-b0d9-1adc8ba3e90c" name="Default Changelist" comment="" />
+      <created>1576334988148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576334988148</updated>
+      <workItem from="1576334990056" duration="882000" />
+      <workItem from="1576340772112" duration="1244000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576335114709">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="96" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1576335114709" />
+    <state x="371" y="170" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1576335090915">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="371" y="170" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.760@0.0.1280.760" timestamp="1576335090915" />
+    <state x="469" y="294" width="365" height="170" key="Github.CreateGistDialog" timestamp="1576341740858">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="469" y="294" width="365" height="170" key="Github.CreateGistDialog/0.0.1280.760@0.0.1280.760" timestamp="1576341740858" />
+    <state width="1238" height="190" key="GridCell.Tab.0.bottom" timestamp="1576340599199">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1576340599199" />
+    <state width="1238" height="190" key="GridCell.Tab.0.center" timestamp="1576340599199">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1576340599199" />
+    <state width="1238" height="190" key="GridCell.Tab.0.left" timestamp="1576340599198">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1576340599198" />
+    <state width="1238" height="190" key="GridCell.Tab.0.right" timestamp="1576340599199">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1576340599199" />
+    <state x="144" y="25" key="SettingsEditor" timestamp="1576342018857">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="144" y="25" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1576342018857" />
+    <state x="336" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1576340772146">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="336" y="208" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1576340772146" />
+  </component>
+</project>
