@@ -11,8 +11,6 @@ public class Demo01 {
      * 最初的想法：
      *  for 便利 然后得到第二个参数  for for
      *
-     *
-     *
      *  不是答案的数据放入map,为下次的数据查找提供方便
      */
     public void sum(int arr[],int target){
