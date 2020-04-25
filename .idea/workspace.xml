@@ -2,23 +2,120 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d43c0bd8-e6b2-4026-b0d9-1adc8ba3e90c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/doc/重构.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kw/chonggou/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kw/chonggou/bean/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kw/chonggou/bean/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kw/chonggou/bean/Rental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kw/chonggou/bean/after/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kw/demo/Dmeo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kw/letcode/Demo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kw/letcode/Demo04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kw/letcode/Demo05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kw/letcode/Demo06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kw/letcode/Demo07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kw/letcode/Demo08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/RedBlackTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/bina/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/dongtaiguihua/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/dongtaiguihua/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/dongtaiguihua/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/dongtaiguihua/Demo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/dongtaiguihua/Demo05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/dongtaiguihua/Demo06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/dongtaiguihua/Demo07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/dongtaiguihua/Demo08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/dongtaiguihua/Demo09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/dongtaiguihua/Demo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/dongtaiguihua/Demo11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/dongtaiguihua/Demo12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/dongtaiguihua/Fuxi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/dongtaiguihua/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/dongtaiguihua/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/dongtaiguihua/Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/dongtaiguihua/Question4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/dongtaiguihua/Question5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/graph/BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/graph/DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/graph/DiGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/graph/Eade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/graph/EdgeWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/graph/IsCyc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/heap/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/heap/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/line/sequence/SequenceList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/line/stack/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/queue/MaxPriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/queue/MinPriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/sort/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/sort/bogo/BogoSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/sort/bubble/Bubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/sort/duiopaixu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/sort/father/SortAbstr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/sort/father/SortAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/sort/guibing/GuiBingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/sort/insert/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/sort/quicksort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/sort/select/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/sort/shell/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/sort/test/BubbleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/sort/test/SelectSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/sort/test/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/sort/util/SortUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/symbol/SymbolTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/tanxin/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/uf/UF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/uf/UFyouhua.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/queue/Queue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kw/jianxiansiqi/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kw/jianxiansiqi/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kw/letcode/Demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kw/letcode/Demo01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kw/letcode/Demo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kw/letcode/Demo02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kw/chonggou/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kw/chonggou/bean/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kw/chonggou/bean/Movie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kw/chonggou/bean/Rental.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kw/chonggou/bean/after/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kw/demo/Dmeo01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kw/jianxiansiqi/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kw/letcode/Demo01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kw/letcode/Demo02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kw/letcode/Demo03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kw/letcode/Demo04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kw/letcode/Demo05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kw/letcode/Demo06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kw/letcode/Demo07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kw/letcode/Demo08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kw/test/chpter2/Demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kw/test/other/chpter2/Demo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kw/test/chpter2/Demo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kw/test/other/chpter2/Demo02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kw/test/chpter2/Demo03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kw/test/other/chpter2/Demo03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kw/test/chpter3/Demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kw/test/other/chpter3/Demo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kw/test/chpter3/Demo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kw/test/other/chpter3/Demo02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kw/test/chpter3/Demo03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kw/test/other/chpter3/Demo03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kw/test/chpter4/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kw/test/other/chpter4/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kw/test/chpter4/StackInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kw/test/other/chpter4/StackInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kw/test/chpter5/Demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kw/test/other/chpter5/Demo01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +156,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\suanfa\src" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Demo08">
     <configuration name="Demo" type="Application" factoryName="Application" nameIsGenerated="true">
@@ -70,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kw.test.chpter3.Demo02" />
+    <configuration name="Demo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kw.test.other.chpter3.Demo02" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kw.test.chpter3.*" />
+          <option name="PATTERN" value="kw.test.other.chpter3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,6 +293,7 @@
       <workItem from="1577977511728" duration="2333000" />
       <workItem from="1578218110426" duration="338000" />
       <workItem from="1578218574752" duration="1233000" />
+      <workItem from="1587805970203" duration="1315000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1576342259278</created>
@@ -238,100 +342,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="letcode" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="96" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576335114709">
-      <screen x="0" y="0" width="1280" height="760" />
-    </state>
-    <state x="96" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1576335114709" />
-    <state x="372" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577019517796">
-      <screen x="0" y="0" width="1463" height="874" />
-    </state>
-    <state x="372" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1463.874@0.0.1463.874" timestamp="1577019517796" />
-    <state x="493" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1577020349427">
-      <screen x="0" y="0" width="1463" height="874" />
-    </state>
-    <state x="493" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1463.874@0.0.1463.874" timestamp="1577020349427" />
-    <state x="371" y="170" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1576335090915">
-      <screen x="0" y="0" width="1280" height="760" />
-    </state>
-    <state x="371" y="170" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.760@0.0.1280.760" timestamp="1576335090915" />
-    <state x="419" y="249" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1577019247727">
-      <screen x="0" y="0" width="1463" height="874" />
-    </state>
-    <state x="419" y="249" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1463.874@0.0.1463.874" timestamp="1577019247727" />
-    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1577290218998">
-      <screen x="0" y="0" width="1463" height="874" />
-    </state>
-    <state x="260" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1576596168364" />
-    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1463.874@0.0.1463.874" timestamp="1577290218998" />
-    <state x="421" y="135" key="FileChooserDialogImpl" timestamp="1576509873164">
-      <screen x="0" y="0" width="1280" height="760" />
-    </state>
-    <state x="421" y="135" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1576509873164" />
-    <state x="469" y="294" width="365" height="170" key="Github.CreateGistDialog" timestamp="1576341740858">
-      <screen x="0" y="0" width="1280" height="760" />
-    </state>
-    <state x="469" y="294" width="365" height="170" key="Github.CreateGistDialog/0.0.1280.760@0.0.1280.760" timestamp="1576341740858" />
-    <state width="1410" height="268" key="GridCell.Tab.0.bottom" timestamp="1577888992353">
-      <screen x="0" y="0" width="1463" height="874" />
-    </state>
-    <state width="1238" height="190" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1576596217255" />
-    <state width="1410" height="268" key="GridCell.Tab.0.bottom/0.0.1463.874@0.0.1463.874" timestamp="1577888992353" />
-    <state width="1410" height="268" key="GridCell.Tab.0.center" timestamp="1577888992353">
-      <screen x="0" y="0" width="1463" height="874" />
-    </state>
-    <state width="1238" height="190" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1576596217255" />
-    <state width="1410" height="268" key="GridCell.Tab.0.center/0.0.1463.874@0.0.1463.874" timestamp="1577888992353" />
-    <state width="1410" height="268" key="GridCell.Tab.0.left" timestamp="1577888992353">
-      <screen x="0" y="0" width="1463" height="874" />
-    </state>
-    <state width="1238" height="190" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1576596217254" />
-    <state width="1410" height="268" key="GridCell.Tab.0.left/0.0.1463.874@0.0.1463.874" timestamp="1577888992353" />
-    <state width="1410" height="268" key="GridCell.Tab.0.right" timestamp="1577888992353">
-      <screen x="0" y="0" width="1463" height="874" />
-    </state>
-    <state width="1238" height="190" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1576596217255" />
-    <state width="1410" height="268" key="GridCell.Tab.0.right/0.0.1463.874@0.0.1463.874" timestamp="1577888992353" />
-    <state width="1410" height="268" key="GridCell.Tab.1.bottom" timestamp="1577888992354">
-      <screen x="0" y="0" width="1463" height="874" />
-    </state>
-    <state width="1410" height="268" key="GridCell.Tab.1.bottom/0.0.1463.874@0.0.1463.874" timestamp="1577888992354" />
-    <state width="1410" height="268" key="GridCell.Tab.1.center" timestamp="1577888992353">
-      <screen x="0" y="0" width="1463" height="874" />
-    </state>
-    <state width="1410" height="268" key="GridCell.Tab.1.center/0.0.1463.874@0.0.1463.874" timestamp="1577888992353" />
-    <state width="1410" height="268" key="GridCell.Tab.1.left" timestamp="1577888992353">
-      <screen x="0" y="0" width="1463" height="874" />
-    </state>
-    <state width="1410" height="268" key="GridCell.Tab.1.left/0.0.1463.874@0.0.1463.874" timestamp="1577888992353" />
-    <state width="1410" height="268" key="GridCell.Tab.1.right" timestamp="1577888992353">
-      <screen x="0" y="0" width="1463" height="874" />
-    </state>
-    <state width="1410" height="268" key="GridCell.Tab.1.right/0.0.1463.874@0.0.1463.874" timestamp="1577888992353" />
-    <state x="192" y="34" key="SettingsEditor" timestamp="1576854565047">
+    <state x="643" y="403" width="421" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587806667796">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state x="144" y="25" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1576421018608" />
-    <state x="192" y="34" key="SettingsEditor/0.0.1707.1027@0.0.1707.1027" timestamp="1576854565047" />
-    <state x="266" y="133" key="Vcs.Push.Dialog.v2" timestamp="1577290228040">
-      <screen x="0" y="0" width="1463" height="874" />
-    </state>
-    <state x="233" y="116" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1576596175297" />
-    <state x="266" y="133" key="Vcs.Push.Dialog.v2/0.0.1463.874@0.0.1463.874" timestamp="1577290228040" />
-    <state x="384" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1578218576277">
-      <screen x="0" y="0" width="1463" height="874" />
-    </state>
-    <state x="336" y="208" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1576454043906" />
-    <state x="384" y="239" key="com.intellij.ide.util.TipDialog/0.0.1463.874@0.0.1463.874" timestamp="1578218576276" />
-    <state x="448" y="281" key="com.intellij.ide.util.TipDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1576854424786" />
-    <state x="299" y="172" key="run.anything.popup" timestamp="1576595256489">
-      <screen x="0" y="0" width="1280" height="760" />
-    </state>
-    <state x="299" y="172" key="run.anything.popup/0.0.1280.760@0.0.1280.760" timestamp="1576595256489" />
-    <state x="346" y="94" width="840" height="780" key="search.everywhere.popup" timestamp="1577880725592">
-      <screen x="0" y="0" width="1463" height="874" />
-    </state>
-    <state x="303" y="82" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1576596059506" />
-    <state x="346" y="94" width="840" height="780" key="search.everywhere.popup/0.0.1463.874@0.0.1463.874" timestamp="1577880725592" />
+    <state x="643" y="403" width="421" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1707.1027@0.0.1707.1027" timestamp="1587806667796" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
