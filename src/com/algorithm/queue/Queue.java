@@ -1,6 +1,5 @@
 package com.algorithm.queue;
 
-import org.omg.CORBA.Object;
 
 public class Queue<T> {
     private T item[];

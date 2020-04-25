@@ -1,6 +1,5 @@
 package kw.test.other.chpter3;
 
-import kw.jianxiansiqi.Demo;
 
 /**
  * 求素数
