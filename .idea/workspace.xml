@@ -2,39 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d43c0bd8-e6b2-4026-b0d9-1adc8ba3e90c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/letcode/Question43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/dp/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/dp/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/dp/Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/dp/Question4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/dp/Question5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/chonggou/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/chonggou/bean/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/chonggou/bean/Movie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/chonggou/bean/Rental.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/chonggou/bean/after/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/demo/Dmeo01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/jianxiansiqi/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/letcode/Demo01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/letcode/Demo04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/letcode/Demo06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/letcode/Demo07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/letcode/Demo08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/test/chpter2/Demo01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/test/chpter2/Demo02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/test/chpter2/Demo03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/test/chpter3/Demo01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/test/chpter3/Demo02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/test/chpter3/Demo03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/test/chpter4/Stack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/test/chpter4/StackInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/test/chpter5/Demo01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/RedBlackTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/RedBlackTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/heap/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/heap/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/queue/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/queue/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kw/test/other/chpter3/Demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kw/test/other/chpter3/Demo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question30.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question36.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question37.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question38.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question39.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question40.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question41.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question42.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question43.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question43.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +108,7 @@
       <recent name="E:\suanfa\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question40">
+  <component name="RunManager" selected="Application.Question52">
     <configuration name="Demo" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kw.jianxiansiqi.Demo" />
       <module name="algorithm" />
@@ -92,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kw.letcode.Demo07" />
+    <configuration name="Question1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.letcode.nomal.dp.Question1" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kw.letcode.*" />
+          <option name="PATTERN" value="com.letcode.nomal.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kw.letcode.Demo08" />
+    <configuration name="Question2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.letcode.nomal.dp.Question2" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kw.letcode.*" />
+          <option name="PATTERN" value="com.letcode.nomal.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.letcode.Demo37" />
+    <configuration name="Question48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.letcode.nomal.Question48" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.letcode.*" />
+          <option name="PATTERN" value="com.letcode.nomal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.letcode.Question38" />
+    <configuration name="Question49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.letcode.nomal.Question49" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.letcode.*" />
+          <option name="PATTERN" value="com.letcode.nomal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.letcode.Question40" />
+    <configuration name="Question52" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.letcode.nomal.Question52" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.letcode.*" />
+          <option name="PATTERN" value="com.letcode.nomal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question40" />
-        <item itemvalue="Application.Question38" />
-        <item itemvalue="Application.Demo37" />
-        <item itemvalue="Application.Demo08" />
-        <item itemvalue="Application.Demo07" />
+        <item itemvalue="Application.Question52" />
+        <item itemvalue="Application.Question49" />
+        <item itemvalue="Application.Question48" />
+        <item itemvalue="Application.Question2" />
+        <item itemvalue="Application.Question1" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +236,10 @@
       <workItem from="1577977511728" duration="2333000" />
       <workItem from="1578218110426" duration="338000" />
       <workItem from="1578218574752" duration="1233000" />
-      <workItem from="1587805970203" duration="8369000" />
+      <workItem from="1587805970203" duration="8429000" />
+      <workItem from="1587820066937" duration="3065000" />
+      <workItem from="1587948144808" duration="3274000" />
+      <workItem from="1587998325530" duration="3908000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1576342259278</created>
@@ -242,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587807407967</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="letcode刷题，增加数据结构">
+      <created>1587815768783</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587815768783</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,54 +307,58 @@
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
     <state x="643" y="403" width="421" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1707.1027@0.0.1707.1027" timestamp="1587806667796" />
-    <state x="358" y="108" key="CommitChangelistDialog2" timestamp="1587807405995">
+    <state x="358" y="108" key="CommitChangelistDialog2" timestamp="1587815767294">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state x="358" y="108" key="CommitChangelistDialog2/0.0.1707.1027@0.0.1707.1027" timestamp="1587807405995" />
-    <state width="1663" height="290" key="GridCell.Tab.0.bottom" timestamp="1587815716678">
+    <state x="358" y="108" key="CommitChangelistDialog2/0.0.1707.1027@0.0.1707.1027" timestamp="1587815767294" />
+    <state width="1663" height="196" key="GridCell.Tab.0.bottom" timestamp="1588036758932">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state width="1663" height="290" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1587815716678" />
-    <state width="1663" height="290" key="GridCell.Tab.0.center" timestamp="1587815716677">
+    <state width="1663" height="196" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1588036758932" />
+    <state width="1663" height="196" key="GridCell.Tab.0.center" timestamp="1588036758931">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state width="1663" height="290" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1587815716677" />
-    <state width="1663" height="290" key="GridCell.Tab.0.left" timestamp="1587815716677">
+    <state width="1663" height="196" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1588036758931" />
+    <state width="1663" height="196" key="GridCell.Tab.0.left" timestamp="1588036758930">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state width="1663" height="290" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1587815716677" />
-    <state width="1663" height="290" key="GridCell.Tab.0.right" timestamp="1587815716678">
+    <state width="1663" height="196" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1588036758930" />
+    <state width="1663" height="196" key="GridCell.Tab.0.right" timestamp="1588036758931">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state width="1663" height="290" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1587815716678" />
-    <state width="1663" height="290" key="GridCell.Tab.1.bottom" timestamp="1587815716679">
+    <state width="1663" height="196" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1588036758931" />
+    <state width="1663" height="196" key="GridCell.Tab.1.bottom" timestamp="1588036759388">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state width="1663" height="290" key="GridCell.Tab.1.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1587815716679" />
-    <state width="1663" height="290" key="GridCell.Tab.1.center" timestamp="1587815716678">
+    <state width="1663" height="196" key="GridCell.Tab.1.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1588036759388" />
+    <state width="1663" height="196" key="GridCell.Tab.1.center" timestamp="1588036759388">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state width="1663" height="290" key="GridCell.Tab.1.center/0.0.1707.1027@0.0.1707.1027" timestamp="1587815716678" />
-    <state width="1663" height="290" key="GridCell.Tab.1.left" timestamp="1587815716678">
+    <state width="1663" height="196" key="GridCell.Tab.1.center/0.0.1707.1027@0.0.1707.1027" timestamp="1588036759388" />
+    <state width="1663" height="196" key="GridCell.Tab.1.left" timestamp="1588036759388">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state width="1663" height="290" key="GridCell.Tab.1.left/0.0.1707.1027@0.0.1707.1027" timestamp="1587815716678" />
-    <state width="1663" height="290" key="GridCell.Tab.1.right" timestamp="1587815716679">
+    <state width="1663" height="196" key="GridCell.Tab.1.left/0.0.1707.1027@0.0.1707.1027" timestamp="1588036759388" />
+    <state width="1663" height="196" key="GridCell.Tab.1.right" timestamp="1588036759388">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state width="1663" height="290" key="GridCell.Tab.1.right/0.0.1707.1027@0.0.1707.1027" timestamp="1587815716679" />
-    <state x="446" y="250" key="Vcs.Push.Dialog.v2" timestamp="1587807416493">
+    <state width="1663" height="196" key="GridCell.Tab.1.right/0.0.1707.1027@0.0.1707.1027" timestamp="1588036759388" />
+    <state x="446" y="250" key="Vcs.Push.Dialog.v2" timestamp="1587815771268">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state x="446" y="250" key="Vcs.Push.Dialog.v2/0.0.1707.1027@0.0.1707.1027" timestamp="1587807416493" />
+    <state x="446" y="250" key="Vcs.Push.Dialog.v2/0.0.1707.1027@0.0.1707.1027" timestamp="1587815771268" />
+    <state x="550" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1587998324870">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="550" y="342" key="com.intellij.ide.util.TipDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1587998324870" />
     <state x="510" y="238" key="run.anything.popup" timestamp="1587813486286">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
     <state x="510" y="238" key="run.anything.popup/0.0.1707.1027@0.0.1707.1027" timestamp="1587813486286" />
-    <state x="516" y="222" width="672" height="678" key="search.everywhere.popup" timestamp="1587810249685">
+    <state x="516" y="222" width="672" height="678" key="search.everywhere.popup" timestamp="1588034600716">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state x="516" y="222" width="672" height="678" key="search.everywhere.popup/0.0.1707.1027@0.0.1707.1027" timestamp="1587810249685" />
+    <state x="516" y="222" width="672" height="678" key="search.everywhere.popup/0.0.1707.1027@0.0.1707.1027" timestamp="1588034600716" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -346,19 +384,49 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/letcode/Question37.java</url>
+          <url>file://$PROJECT_DIR$/src/com/letcode/nomal/Question37.java</url>
           <line>32</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/letcode/Question38.java</url>
+          <url>file://$PROJECT_DIR$/src/com/letcode/nomal/Question38.java</url>
           <line>20</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/letcode/Question40.java</url>
+          <url>file://$PROJECT_DIR$/src/com/letcode/nomal/Question40.java</url>
           <line>13</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/letcode/nomal/Question45.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/letcode/nomal/dp/Question2.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/letcode/nomal/dp/Question2.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/letcode/nomal/Question48.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/letcode/nomal/Question52.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/letcode/nomal/Question52.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
