@@ -12,12 +12,23 @@ public class Demo10 {
         int dp[][] = new int[n][n];
         dp[0][0] = 0;
         //取得的重量
+        for (int i = 0; i < K; i++) {
+            dp[i][0] = 0;
+        }
+        for (int i = 0; i < n; i++) {
+            dp[0][i] = 0;
+        }
         for (int k = 1; k < K; k++) {
             //遍历价值
             for (int w = 0; w < n; w++) {
-                if (k>=weight[w]){
-                //    dp[k][w] =
+                if (k==0||w == 0){
+                    dp[k][w] = 0;
+                    continue;
                 }
+                if (k>=weight[w]){
+                
+                }
+
             }
         }
 

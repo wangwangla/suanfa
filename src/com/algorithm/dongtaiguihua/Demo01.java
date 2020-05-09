@@ -2,7 +2,7 @@ package com.algorithm.dongtaiguihua;
 
 public class Demo01 {
     /**
-     * 几个数字组成一个目标值
+     * 几个数字组成一个目标值    2 3 5  -----> 组成27
      * @param arr
      * @param K
      */

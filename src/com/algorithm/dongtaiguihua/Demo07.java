@@ -2,7 +2,7 @@ package com.algorithm.dongtaiguihua;
 
 public class Demo07 {
     /**
-     * 机器人从左上角到右下角走过的最小总数和
+     * 机器人从左上角到右下角走过的最小总数和   贪心每次走最小的
      * @param arr
      */
     public void method(int arr[][]){

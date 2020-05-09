@@ -2,63 +2,152 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d43c0bd8-e6b2-4026-b0d9-1adc8ba3e90c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question50.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question51.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question52.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/dp/Question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/dp/Question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/dp/Question3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/dp/Question4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/dp/Question5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/beibao/KexingxingBeibao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/beibao/Zuidazhi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/beibao/jishuxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/bina/BinaryFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/link/DoubleLink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/link/Link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/link/ReverseLink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/dp/Question6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/tanxin/Question01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/letcode/nomal/tanxin/Question02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kw/test/demo/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question36.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question37.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question38.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question40.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question41.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question42.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question43.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question43.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letcode/Question9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letcode/nomal/Question9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/RedBlackTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/RedBlackTree$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/RedBlackTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/RedBlackTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/bina/BinaryTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/bina/BinaryTree$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/bina/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/bina/BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Demo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Demo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Demo02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Demo03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Demo03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Demo04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Demo04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Demo05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Demo05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Demo06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Demo06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Demo07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Demo07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Demo08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Demo08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Demo09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Demo09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Demo10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Demo10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Demo11$type.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Demo11$type.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Demo11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Demo11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Demo12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Demo12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Fuxi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Fuxi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Question1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Question1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Question2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Question2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Question2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Question2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Question3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Question3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Question4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Question4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Question5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/dongtaiguihua/Question5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/graph/BFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/graph/BFS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/graph/DFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/graph/DFS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/graph/DiGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/graph/DiGraph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/graph/Eade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/graph/Eade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/graph/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/graph/Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/graph/IsCyc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/graph/IsCyc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/heap/Heap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/heap/Heap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/heap/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/heap/HeapSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/line/sequence/SequenceList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/line/sequence/SequenceList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/line/stack/Stack$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/line/stack/Stack$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/line/stack/Stack$SIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/line/stack/Stack$SIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/line/stack/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/line/stack/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/queue/MaxPriorityQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/queue/MaxPriorityQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/queue/MinPriorityQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/queue/MinPriorityQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/queue/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/queue/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/bogo/BogoSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/bogo/BogoSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/bubble/Bubble.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/bubble/Bubble.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/duiopaixu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/duiopaixu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/father/SortAbstr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/father/SortAbstr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/father/SortAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/father/SortAlgorithm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/guibing/GuiBingSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/guibing/GuiBingSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/insert/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/insert/InsertSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/quicksort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/quicksort/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/select/SelectSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/select/SelectSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/shell/ShellSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/shell/ShellSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/test/BubbleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/test/BubbleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/test/SelectSortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/test/SelectSortTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/test/StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/test/StudentTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/util/SortUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/sort/util/SortUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/symbol/SymbolTable$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/symbol/SymbolTable$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/symbol/SymbolTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/symbol/SymbolTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/tanxin/Demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/tanxin/Demo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/uf/UF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/uf/UF.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/uf/UFyouhua.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/uf/UFyouhua.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question2$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question2$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question20$1Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question20$1Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question22.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question23.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question23.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question24$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question24$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question24.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question25.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question25.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question26.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question26.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question28.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question28.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question29.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question29.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question30.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question30.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question31.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question31.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question32.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question32.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question33.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question33.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question34.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question34.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question35.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question35.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question36.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question36.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question37.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question37.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question38.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question38.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question39.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question39.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question40.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question40.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question41.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question41.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question42.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question42.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question43.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question43.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question44.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question44.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question45.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question45.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question46.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question46.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question47.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question47.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question48.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question48.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question49.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question49.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/Question9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/dp/Question1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/dp/Question1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/dp/Question2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/dp/Question2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/dp/Question3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/dp/Question3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/dp/Question4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/dp/Question4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/dp/Question5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/letcode/nomal/dp/Question5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/queue/Queue$MyIter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/queue/Queue$MyIter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/queue/Queue$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/queue/Queue$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/queue/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/queue/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/test/other/chpter2/Demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/kw/test/other/chpter2/Demo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/test/other/chpter2/Demo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/kw/test/other/chpter2/Demo02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/test/other/chpter2/Demo03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/kw/test/other/chpter2/Demo03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/test/other/chpter3/Demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/kw/test/other/chpter3/Demo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/test/other/chpter3/Demo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/kw/test/other/chpter3/Demo02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/test/other/chpter3/Demo03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/kw/test/other/chpter3/Demo03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/test/other/chpter4/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/kw/test/other/chpter4/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/test/other/chpter4/StackInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/kw/test/other/chpter4/StackInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kw/test/other/chpter5/Demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/kw/test/other/chpter5/Demo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/dongtaiguihua/Demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/dongtaiguihua/Demo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/dongtaiguihua/Demo04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/dongtaiguihua/Demo04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/dongtaiguihua/Demo06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/dongtaiguihua/Demo06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/dongtaiguihua/Demo07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/dongtaiguihua/Demo07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/dongtaiguihua/Demo10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/dongtaiguihua/Demo10.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,11 +169,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SORT_ALPHABETICALLY" value="true" />
+  </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
       <set>
         <option value="E:\code\algorithm\.idea" />
       </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectId" id="1UyhxTAyy6tMRD63rtrIFNL3W6n" />
@@ -100,15 +200,44 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\suanfa\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question52">
+  <component name="RunManager" selected="Application.ReverseLink">
+    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kw.test.demo.Demo" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kw.test.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kw.test.Demo" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kw.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Demo" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kw.jianxiansiqi.Demo" />
       <module name="algorithm" />
@@ -116,12 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.letcode.nomal.dp.Question1" />
+    <configuration name="Question01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.letcode.nomal.tanxin.Question01" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.letcode.nomal.dp.*" />
+          <option name="PATTERN" value="com.letcode.nomal.tanxin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +258,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.letcode.nomal.dp.Question2" />
+    <configuration name="Question02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.letcode.nomal.tanxin.Question02" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.letcode.nomal.dp.*" />
+          <option name="PATTERN" value="com.letcode.nomal.tanxin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,38 +271,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.letcode.nomal.Question48" />
+    <configuration name="ReverseLink" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.link.ReverseLink" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.letcode.nomal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.letcode.nomal.Question49" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.letcode.nomal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question52" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.letcode.nomal.Question52" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.letcode.nomal.*" />
+          <option name="PATTERN" value="com.algorithm.link.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,11 +292,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question52" />
-        <item itemvalue="Application.Question49" />
-        <item itemvalue="Application.Question48" />
-        <item itemvalue="Application.Question2" />
-        <item itemvalue="Application.Question1" />
+        <item itemvalue="Application.ReverseLink" />
+        <item itemvalue="Application.Demo (2)" />
+        <item itemvalue="Application.Demo (1)" />
+        <item itemvalue="Application.Question02" />
+        <item itemvalue="Application.Question01" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +342,16 @@
       <workItem from="1587805970203" duration="8429000" />
       <workItem from="1587820066937" duration="3065000" />
       <workItem from="1587948144808" duration="3274000" />
-      <workItem from="1587998325530" duration="3908000" />
+      <workItem from="1587998325530" duration="3970000" />
+      <workItem from="1588077661287" duration="5323000" />
+      <workItem from="1588318794535" duration="1963000" />
+      <workItem from="1588395020802" duration="77000" />
+      <workItem from="1588576448216" duration="10410000" />
+      <workItem from="1588600279021" duration="35000" />
+      <workItem from="1588600348601" duration="13136000" />
+      <workItem from="1588732061276" duration="401000" />
+      <workItem from="1588900982015" duration="1156000" />
+      <workItem from="1588986047996" duration="1710000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1576342259278</created>
@@ -276,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587815768783</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="letcode刷题，增加数据结构">
+      <created>1588037761182</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588037761182</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,62 +422,88 @@
     <option name="LAST_COMMIT_MESSAGE" value="letcode刷题，增加数据结构" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="446" y="89" key="#com.intellij.ide.util.MemberChooser" timestamp="1588581074082">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="446" y="89" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1588581074082" />
     <state x="643" y="403" width="421" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587806667796">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
     <state x="643" y="403" width="421" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1707.1027@0.0.1707.1027" timestamp="1587806667796" />
-    <state x="358" y="108" key="CommitChangelistDialog2" timestamp="1587815767294">
+    <state x="358" y="108" key="CommitChangelistDialog2" timestamp="1588037757818">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state x="358" y="108" key="CommitChangelistDialog2/0.0.1707.1027@0.0.1707.1027" timestamp="1587815767294" />
-    <state width="1663" height="196" key="GridCell.Tab.0.bottom" timestamp="1588036758932">
+    <state x="358" y="108" key="CommitChangelistDialog2/0.0.1707.1027@0.0.1707.1027" timestamp="1588037757818" />
+    <state x="421" y="138" key="FileChooserDialogImpl" timestamp="1588688895572">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="421" y="138" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1588688895572" />
+    <state width="1238" height="303" key="GridCell.Tab.0.bottom" timestamp="1588987767065">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="303" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1588987767065" />
+    <state width="1663" height="2" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1588578493327" />
+    <state width="1238" height="303" key="GridCell.Tab.0.center" timestamp="1588987767065">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="303" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1588987767065" />
+    <state width="1663" height="2" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1588578493326" />
+    <state width="1238" height="303" key="GridCell.Tab.0.left" timestamp="1588987767065">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="303" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1588987767065" />
+    <state width="1663" height="2" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1588578493326" />
+    <state width="1238" height="303" key="GridCell.Tab.0.right" timestamp="1588987767065">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="303" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1588987767065" />
+    <state width="1663" height="2" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1588578493326" />
+    <state width="1238" height="303" key="GridCell.Tab.1.bottom" timestamp="1588987767453">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="303" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1588987767453" />
+    <state width="1663" height="2" key="GridCell.Tab.1.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1588578493327" />
+    <state width="1238" height="303" key="GridCell.Tab.1.center" timestamp="1588987767452">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="303" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1588987767452" />
+    <state width="1663" height="2" key="GridCell.Tab.1.center/0.0.1707.1027@0.0.1707.1027" timestamp="1588578493327" />
+    <state width="1238" height="303" key="GridCell.Tab.1.left" timestamp="1588987767452">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="303" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1588987767452" />
+    <state width="1663" height="2" key="GridCell.Tab.1.left/0.0.1707.1027@0.0.1707.1027" timestamp="1588578493327" />
+    <state width="1238" height="303" key="GridCell.Tab.1.right" timestamp="1588987767452">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="303" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1588987767452" />
+    <state width="1663" height="2" key="GridCell.Tab.1.right/0.0.1707.1027@0.0.1707.1027" timestamp="1588578493327" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1588668466694">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1588668466694" />
+    <state x="446" y="250" key="Vcs.Push.Dialog.v2" timestamp="1588037763775">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state width="1663" height="196" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1588036758932" />
-    <state width="1663" height="196" key="GridCell.Tab.0.center" timestamp="1588036758931">
-      <screen x="0" y="0" width="1707" height="1027" />
+    <state x="446" y="250" key="Vcs.Push.Dialog.v2/0.0.1707.1027@0.0.1707.1027" timestamp="1588037763775" />
+    <state x="412" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1588986048513">
+      <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1663" height="196" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1588036758931" />
-    <state width="1663" height="196" key="GridCell.Tab.0.left" timestamp="1588036758930">
-      <screen x="0" y="0" width="1707" height="1027" />
+    <state x="412" y="253" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1588986048513" />
+    <state x="550" y="342" key="com.intellij.ide.util.TipDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1588395076609" />
+    <state x="438" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588688905413">
+      <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1663" height="196" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1588036758930" />
-    <state width="1663" height="196" key="GridCell.Tab.0.right" timestamp="1588036758931">
-      <screen x="0" y="0" width="1707" height="1027" />
-    </state>
-    <state width="1663" height="196" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1588036758931" />
-    <state width="1663" height="196" key="GridCell.Tab.1.bottom" timestamp="1588036759388">
-      <screen x="0" y="0" width="1707" height="1027" />
-    </state>
-    <state width="1663" height="196" key="GridCell.Tab.1.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1588036759388" />
-    <state width="1663" height="196" key="GridCell.Tab.1.center" timestamp="1588036759388">
-      <screen x="0" y="0" width="1707" height="1027" />
-    </state>
-    <state width="1663" height="196" key="GridCell.Tab.1.center/0.0.1707.1027@0.0.1707.1027" timestamp="1588036759388" />
-    <state width="1663" height="196" key="GridCell.Tab.1.left" timestamp="1588036759388">
-      <screen x="0" y="0" width="1707" height="1027" />
-    </state>
-    <state width="1663" height="196" key="GridCell.Tab.1.left/0.0.1707.1027@0.0.1707.1027" timestamp="1588036759388" />
-    <state width="1663" height="196" key="GridCell.Tab.1.right" timestamp="1588036759388">
-      <screen x="0" y="0" width="1707" height="1027" />
-    </state>
-    <state width="1663" height="196" key="GridCell.Tab.1.right/0.0.1707.1027@0.0.1707.1027" timestamp="1588036759388" />
-    <state x="446" y="250" key="Vcs.Push.Dialog.v2" timestamp="1587815771268">
-      <screen x="0" y="0" width="1707" height="1027" />
-    </state>
-    <state x="446" y="250" key="Vcs.Push.Dialog.v2/0.0.1707.1027@0.0.1707.1027" timestamp="1587815771268" />
-    <state x="550" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1587998324870">
-      <screen x="0" y="0" width="1707" height="1027" />
-    </state>
-    <state x="550" y="342" key="com.intellij.ide.util.TipDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1587998324870" />
+    <state x="438" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.760@0.0.1280.760" timestamp="1588688905413" />
     <state x="510" y="238" key="run.anything.popup" timestamp="1587813486286">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
     <state x="510" y="238" key="run.anything.popup/0.0.1707.1027@0.0.1707.1027" timestamp="1587813486286" />
-    <state x="516" y="222" width="672" height="678" key="search.everywhere.popup" timestamp="1588034600716">
-      <screen x="0" y="0" width="1707" height="1027" />
+    <state x="395" y="172" width="672" height="502" key="search.everywhere.popup" timestamp="1588688553072">
+      <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="516" y="222" width="672" height="678" key="search.everywhere.popup/0.0.1707.1027@0.0.1707.1027" timestamp="1588034600716" />
+    <state x="395" y="172" width="672" height="502" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1588688553072" />
+    <state x="516" y="222" width="672" height="678" key="search.everywhere.popup/0.0.1707.1027@0.0.1707.1027" timestamp="1588248734816" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -424,9 +569,69 @@
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/letcode/nomal/Question52.java</url>
-          <line>23</line>
+          <url>file://$PROJECT_DIR$/src/com/algorithm/link/Link.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/link/Link.java</url>
+          <line>56</line>
           <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/link/DoubleLink.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/letcode/nomal/tanxin/Question02.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_241/jre/lib/rt.jar!/sun/misc/Launcher.class</url>
+          <line>43</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_241/jre/lib/rt.jar!/sun/misc/Launcher.class</url>
+          <line>169</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/util/HashMap.java</url>
+          <line>555</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/util/HashMap.java</url>
+          <line>567</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/kw/test/Demo.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/link/ReverseLink.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/link/ReverseLink.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/link/ReverseLink.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/link/ReverseLink.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="65" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -434,6 +639,15 @@
       <configuration name="Application">
         <watch expression="hashMap.get(&quot;aet&quot;)" language="JAVA" />
         <watch expression="hashMap.get([a,e,t])" language="JAVA" />
+        <watch expression="factory" language="JAVA" />
+        <watch expression="n-1" language="JAVA" />
+        <watch expression="15&amp;49" language="JAVA" />
+        <watch expression="tab.length" language="JAVA" />
+        <watch expression="n-1" language="JAVA" />
+        <watch expression="15&amp;hash" language="JAVA" />
+        <watch expression="16*0.75" language="JAVA" />
+        <watch expression="root" language="JAVA" />
+        <watch expression="rr" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>

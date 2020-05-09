@@ -2,6 +2,8 @@ package com.algorithm.dongtaiguihua;
 
 /**
  * k个抄写员超写n本书，使用的最短时间
+ *
+ * 没懂
  */
 public class Demo04 {
     public void soul(int arr[],int K){

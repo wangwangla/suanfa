@@ -2,7 +2,7 @@ package com.algorithm.dongtaiguihua;
 
 public class Demo06 {
     /**
-     * 最长子序列
+     * 最长子序列 连续递进的
      * @param arr
      */
     public void method(int arr[]){
